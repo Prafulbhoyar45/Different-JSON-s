@@ -1,0 +1,7 @@
+list_json = {
+    "employees": [
+        {"id": 3, "name": "Amit", "role": "Manager", "location": "Pune"},
+        {"id": 4, "name": "Sneha", "role": "Engineer", "location": "Bangalore"},
+        {"id": 5, "name": "Karan", "role": "Intern", "location": "Chennai"}
+    ]
+}
