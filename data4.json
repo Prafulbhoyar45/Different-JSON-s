@@ -1,0 +1,27 @@
+{
+  "company": "TechCorp",
+  "headquarters": {
+    "city": "Mumbai",
+    "country": "India"
+  },
+  "departments": [
+    {
+      "dept_id": 101,
+      "name": "Data Science",
+      "employees": [
+        {"id": 1, "name": "Rahul", "role": "Data Scientist", "skills": ["Python", "ML", "DL"]},
+        {"id": 2, "name": "Priya", "role": "Analyst", "skills": ["SQL", "Excel"]}
+      ]
+    },
+    {
+      "dept_id": 102,
+      "name": "Engineering",
+      "employees": [
+        {"id": 3, "name": "Amit", "role": "Manager", "skills": ["Leadership", "Planning"]},
+        {"id": 4, "name": "Sneha", "role": "Engineer", "skills": ["Java", "AWS", "Docker"]},
+        {"id": 5, "name": "Karan", "role": "Intern", "skills": ["C++"]}
+      ]
+    }
+  ],
+  "founded": 2010
+}
