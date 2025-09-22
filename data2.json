@@ -1,0 +1,11 @@
+nested_json = {
+    "employee": {
+        "id": 2,
+        "name": "Priya",
+        "details": {
+            "role": "Analyst",
+            "location": "Delhi"
+        }
+    },
+    "company": "TechCorp"
+}
